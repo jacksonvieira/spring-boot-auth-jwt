@@ -26,7 +26,6 @@
 	<description>Spring Boot application that makes use of JWT authentication for securing an exposed REST API
 
 </description>
-
 	<scm>
 		<url>https://github.com/jacksonvieira/spring-boot-auth-jwt</url>
 	</scm>
